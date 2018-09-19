@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StringToIntHash.iml" filepath="$PROJECT_DIR$/StringToIntHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringToIntHash_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StringToIntHash_main.iml" group="StringToIntHash" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringToIntHash_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StringToIntHash_test.iml" group="StringToIntHash" />
+    </modules>
+  </component>
+</project>
